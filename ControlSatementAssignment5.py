@@ -93,8 +93,8 @@ for i in range(3):
     print()
 '''
 
-# 10
-'''
+
+
 num=1
 for i in range(4):
   
@@ -103,5 +103,5 @@ for i in range(4):
         num=num+2
     num=num-4
     print()
-'''
+
 print("Thank you!!!!!!!!!")
